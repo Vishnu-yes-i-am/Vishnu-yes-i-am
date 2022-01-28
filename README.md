@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Vishnu-yes-i-am/Vishnu-yes-i-am** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Finally you got me ✨ 
 
-Here are some ideas to get you started:
+##Let me Introduce myself first ⚡⚡⚡
+- 🧑‍💻 Student of Btech in Computer Science at MNIT Jaipur
+- 🔭 I’m currently working on Web Development
+- 🌱 learning Backend
+- 🤔 looking to collaborate on Database Management at this time
+- 👯 Love to work on frontend 
+- 🤖 having a great interest in artificial Intelligence 
+- 📫 you can mail me on Vishnumali3911@gmail.com or 2020ucp1018@mnit.ac.in
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
