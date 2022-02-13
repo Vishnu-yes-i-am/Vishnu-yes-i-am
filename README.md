@@ -3,7 +3,7 @@
 ✨ Finally you got me ✨ 
 
 ##Let me Introduce myself first ⚡⚡⚡
-- 🧑‍💻 Student of Btech in Computer Science at MNIT Jaipur
+- 🧑‍💻 Myself Vishnu Mali ,student of Btech in Computer Science at MNIT Jaipur
 - 🔭 I’m currently working on Web Development
 - 🌱 learning Backend
 - 🤔 looking to collaborate on Database Management at this time
