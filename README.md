@@ -92,8 +92,5 @@
     </div>
 </div>
 
-<h2 align='center'><i>My Contribution</i></h2>
-<div align=center>
-    <img alt="Saksham's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=vishnu-yes-i-am&theme=github" />
-</div>
+
 
